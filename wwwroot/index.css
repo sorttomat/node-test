@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif
+}
+
+span {
+    background-color: green;
+
+}
+
+
+.raud {
+    background-color: red;
+}
+
+.grønn {
+    background-color: green;
+
+}
+.blau {
+    background-color: blue;
+}
+
+.hvit-skrift {
+    color: white;
+}
+
+.sidebar {
+    height: 300px;
+    background-color: yellow;
+    width: 100px;
+    float: left;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    border: thin solid black;
+    border-radius: 3px;
+    float: left;
+    clear: both;
+}
